@@ -10,3 +10,11 @@ Architecture which can be used as a template for a new django project
 - Migrate DB : `python manage.py migrate`
 - Runserver : `python manage.py runserver`
 - Navigate to url: `localhost:8000`
+
+## Features
+- Login
+- Logout
+- SignUp
+- Update Profile
+- Change Password
+- Reset Password
